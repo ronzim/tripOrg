@@ -1,5 +1,5 @@
 # triporg
-A simple tool for organizing trip memories
+A simple tool for organizing trip memories. Built with vue-cli-plugin-electron-builder.
 
 ## Project setup
 ```
@@ -8,7 +8,7 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn electron:serve
 ```
 
 ### Compiles and minifies for production
