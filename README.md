@@ -1,4 +1,5 @@
 # triporg
+A simple tool for organizing trip memories
 
 ## Project setup
 ```
